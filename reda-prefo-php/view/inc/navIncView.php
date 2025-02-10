@@ -4,18 +4,18 @@
 <a href="./" class="logo">Reda</a>
         <ul class="nav-link">
           <li>
-            <a href="./page/entreprise.html">Entreprise</a>
+            <a href="./?p=entreprise">Entreprise</a>
           </li>
           <li>
-            <a href="./page/interview.html">Interview</a>
+            <a href="./?p=interview">Interview</a>
           </li>
           <li>
-            <a href="./page/exposition.html">Exposition</a>
+            <a href="./?p=expo">Exposition</a>
           </li>
           <li>
-            <a href="./page/galerie.html">Galerie</a>
+            <a href="./?p=galerie">Galerie</a>
           </li>
           <li>
-            <a href="./page/conclusion.html">Conclusion</a>
+            <a href="./?p=conclusion">Conclusion</a>
           </li>
         </ul>
