@@ -1,0 +1,21 @@
+.main-content {
+  margin-top: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-content p {
+  font-family: "Montserrat", sans-serif;
+  line-height: 2rem;
+  font-size: 1.8rem;
+  width: 55%;
+  background-color: #1e1e1e;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.cf2m {
+  color: #f4d6a5;
+  font-weight: 600;
+}

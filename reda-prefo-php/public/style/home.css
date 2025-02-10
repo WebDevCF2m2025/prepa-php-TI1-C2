@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400&display=swap");
+
+* {
+  outline: none;
+  border: none;
+  text-decoration: none;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  color: white;
+}
+
+/* The typing text */
+.home-content span {
+  font-family: "Bebas Neue";
+  color: #f4d6a5;
+}
+
+/* The mid content  */
+
+section {
+  min-height: 100vh;
+}
+
+.home {
+  font-family: "Bebas Neue";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8rem;
+  background-color: #121212;
+}
+
+.home-content {
+  width: 500px;
+}
+
+.home .home-content h1 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.home-content h3 {
+  font-size: 3.45rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.home-content p {
+  font-size: 1.5rem;
+}
+
+.home-img {
+  border-radius: 50%;
+}
+
+.home-img img {
+  position: relative;
+  width: 32vw;
+  border-radius: 50%;
+  box-shadow: 0 0 25px solid black;
+  cursor: pointer;
+  transition: 0.2s linear;
+}
+
+.home-img img:hover {
+  font-size: 1.8rem;
+  font-weight: 500;
+  transform: scale(1.1);
+  background-color: #f4d6a5;
+  box-shadow: 0 0 25px #f4d6a5;
+}
+
+/* Icon on the bottom like linkdein, github and twitter */
+
+.social-icon a {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 3rem;
+  height: 3rem;
+  background-color: transparent;
+  border: 0.2rem solid #f4d6a5;
+  font-size: 2rem;
+  border-radius: 50%;
+  margin: 3rem 1.5rem 3rem 0;
+  transition: 0.3s ease;
+  color: white;
+}
+
+.social-icon a:hover {
+  color: black;
+  transform: scale(1.3) translateY(-5px);
+  background-color: #f4d6a5;
+  box-shadow: 0 0 25px #f4d6a5;
+}
