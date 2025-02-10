@@ -17,6 +17,15 @@ if(isset($_GET['p'])){
         case "interview":
             include "../view/interviewView.php";
             break;
+        case "exposition":
+            include "../view/entrepriseView.php";
+            break;
+         case "galerie":
+            include "../view/galerieView.php";
+            break;
+        case "conclusion":
+            include "../view/conclusionView.php";
+            break;
         // variable p pas dans le switch
         default:
             include "../view/error404View.php";
