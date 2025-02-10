@@ -7,3 +7,7 @@ Merci à [@redasnkrs](https://github.com/redasnkrs) pour l'utilisation de [son s
 ## Fichiers d'origine
 
 Ils se trouvent dans le dossier `/reda-prefo-html`.
+
+## Fichiers php
+
+Ils se trouvent dans le dossier `/reda-prefo-php`.
