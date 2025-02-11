@@ -10,7 +10,7 @@
             <a href="./?p=interview">Interview</a>
           </li>
           <li>
-            <a href="./?p=expo">Exposition</a>
+            <a href="./?p=exposition">Exposition</a>
           </li>
           <li>
             <a href="./?p=galerie">Galerie</a>
